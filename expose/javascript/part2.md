@@ -48,6 +48,12 @@
     -E false, because true equals 1 in value not 2
     -F true, Boolean(2) is bool type and since 2 is not zero, the Boolean(2) is true and true === true is true.
 15. the == operator does the type conversion of the operands before comparison, whereas the === operator compares the values as well as the data types of the operands.
-16.  in other file
 
-17.  
+16.  in another file
+
+17. the result is `[ 2,4,6 ]`, because the input callback is doSomething function, and the function will double the current elements in the input array and push to the nenw array
+    in the forloop, we extract the ith element in the array [1,2,3] and then put the ith element to doSomething  function to double it.
+    
+18. in another file
+
+19. 1432
